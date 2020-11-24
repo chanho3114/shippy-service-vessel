@@ -20,6 +20,7 @@ require (
 	github.com/imdario/mergo v0.3.11 // indirect
 	github.com/kevinburke/ssh_config v0.0.0-20201106050909-4977a11b4351 // indirect
 	github.com/klauspost/compress v1.11.2 // indirect
+	github.com/lucas-clemente/quic-go v0.19.2 // indirect
 	github.com/micro/go-micro/v2 v2.9.1
 	github.com/micro/micro/v2 v2.9.2-0.20200728090142-c7f7e4a71077 // indirect
 	github.com/miekg/dns v1.1.35 // indirect
